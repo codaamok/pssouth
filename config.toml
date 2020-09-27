@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://ambitious-dune-03065f303.azurestaticapps.net"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "PowerShell Southampton"
 theme = "ananke"
