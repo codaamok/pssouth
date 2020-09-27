@@ -4,12 +4,12 @@ title = "PowerShell Southampton"
 theme = "ananke"
 themesDir = "../.."
 
-DefaultContentLanguage = "en"
-SectionPagesMenu = "main"
-Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
-googleAnalytics = ""
-enableRobotsTXT = true
-
 [params]
+    favicon = ""
+    site_logo = ""
+    description = "The last theme you'll ever need. Maybe."
     twitter = "https://twitter.com/codaamok"
     github = "https://github.com/codaamok
+    background_color_class = "bg-black"
+    featured_image = "/images/gohugo-default-sample-hero-image.jpg"
+    recent_posts_number = 2 
