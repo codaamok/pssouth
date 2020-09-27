@@ -2,6 +2,13 @@ baseURL = "https://ambitious-dune-03065f303.azurestaticapps.net/"
 languageCode = "en-us"
 title = "PowerShell Southampton"
 theme = "ananke"
+themesDir = "../.."
+
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
 
 [params]
     twitter = "https://twitter.com/codaamok"
