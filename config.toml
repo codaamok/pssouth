@@ -1,4 +1,57 @@
 baseURL = "https://ambitious-dune-03065f303.azurestaticapps.net"
 languageCode = "en-us"
-title = "PowerShell Southampton"
 theme = "hugo-theme-hello-friend-ng"
+
+[params]
+    description = "A PowerShell user group based in the south of UK."
+    homeSubtitle = "A PowerShell user group based in the south of UK."
+    enableSharingButtons = true
+    disableReadOtherPosts = false
+    images = [""]
+
+[taxonomies]
+    tag      = "tags"
+    category = "categories"
+
+[languages]
+
+    [languages.en]
+        title = "PowerShell Southampton"
+        subtitle = "UK"
+        keywords = "PowerShell"
+        copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+        readOtherPosts = "Read other posts"
+
+        [languages.en.params.logo]
+            logoText = " "
+            logoHomeLink = "/"
+
+    [[menu.main]]
+        identifier="blog"
+        name="blog"
+        url="/posts"
+    
+    [[menu.main]]
+        identifier="about"
+        name="about"
+        url="/about"
+
+    [[menu.main]]
+        identifier="speaking"
+        name="speaking"
+        url="/speaking"
+
+    [[menu.main]]
+        identifier="sponsors"
+        name="sponsors"
+        url="/sponsors"
+
+    [[menu.main]]
+        identifier="events"
+        name="meetup"
+        url="https://www.meetup.com/PowerShell-Southampton"
+
+    [[menu.main]]
+        identifier="sponsors"
+        name="sponsors"
+        url="/sponsors"

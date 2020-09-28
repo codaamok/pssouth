@@ -1,5 +1,5 @@
 ---
-title: "My First Mod"
+title: "My First Post"
 date: 2020-09-27T12:52:09+01:00
 draft: false
 ---
