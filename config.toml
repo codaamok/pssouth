@@ -1,4 +1,4 @@
 baseURL = "https://ambitious-dune-03065f303.azurestaticapps.net"
 languageCode = "en-us"
 title = "PowerShell Southampton"
-theme = "hello-friend-ng"
+theme = "hugo-theme-hello-friend-ng"
