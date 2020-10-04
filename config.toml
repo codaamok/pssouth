@@ -9,32 +9,45 @@ theme = "hugo-theme-hello-friend-ng"
     disableReadOtherPosts = false
     images = [""]
 
+    footerLeft = "Powered by <a href=\"http://gohugo.io\">Hugo</a>"
+    footerRight = "Hosted in <a href=\"https://azure.microsoft.com\">Azure</a>"
+
+    [[params.social]]
+        name = "twitter"
+        url  = "https://twitter.com/PSSouthampton"
+
+    [[params.social]]
+        name = "youtube"
+        url  = "https://youtube.com/c/PowerShellSouthampton"
+
+    customCSS = ["css/custom.css"]
+
 [taxonomies]
     tag      = "tags"
     category = "categories"
 
 [languages]
-
     [languages.en]
         title = "PowerShell Southampton"
         subtitle = "UK"
         keywords = "PowerShell"
-        copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+        # copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
         readOtherPosts = "Read other posts"
 
         [languages.en.params.logo]
             logoText = " "
             logoHomeLink = "/"
     
+[menu]
     [[menu.main]]
         identifier="about"
         name="about"
         url="/about"
 
     [[menu.main]]
-        identifier="events"
+        identifier="posts"
         name="events"
-        url="/events"
+        url="/posts"
 
     [[menu.main]]
         identifier="sponsors"
@@ -47,7 +60,6 @@ theme = "hugo-theme-hello-friend-ng"
         url="/codeofconduct"
 
 [deployment]
-
     [[deployment.targets]]
-        name = "mydeployment"
+        name = "Azure"
         URL = "azblob://$web"
