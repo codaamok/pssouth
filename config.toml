@@ -6,7 +6,7 @@ theme = "hugo-theme-hello-friend-ng"
     description = "A PowerShell user group based in the south of UK."
     homeSubtitle = "A PowerShell user group based in the south of UK."
     enableSharingButtons = true
-    disableReadOtherPosts = false
+    disableReadOtherPosts = true
     images = [""]
 
     footerLeft = "Powered by <a href=\"http://gohugo.io\">Hugo</a>"
@@ -31,8 +31,6 @@ theme = "hugo-theme-hello-friend-ng"
         title = "PowerShell Southampton"
         subtitle = "UK"
         keywords = "PowerShell"
-        # copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
-        readOtherPosts = "Read other posts"
 
         [languages.en.params.logo]
             logoText = " "
