@@ -1,4 +1,4 @@
-baseURL = "https://ambitious-dune-03065f303.azurestaticapps.net"
+baseURL = "https://storagepssouth.z33.web.core.windows.net/"
 languageCode = "en-us"
 theme = "hugo-theme-hello-friend-ng"
 
@@ -25,11 +25,6 @@ theme = "hugo-theme-hello-friend-ng"
         [languages.en.params.logo]
             logoText = " "
             logoHomeLink = "/"
-
-    [[menu.main]]
-        identifier="blog"
-        name="blog"
-        url="/posts"
     
     [[menu.main]]
         identifier="about"
@@ -37,21 +32,22 @@ theme = "hugo-theme-hello-friend-ng"
         url="/about"
 
     [[menu.main]]
-        identifier="speaking"
-        name="speaking"
-        url="/speaking"
-
-    [[menu.main]]
-        identifier="sponsors"
-        name="sponsors"
-        url="/sponsors"
-
-    [[menu.main]]
         identifier="events"
-        name="meetup"
-        url="https://www.meetup.com/PowerShell-Southampton"
+        name="events"
+        url="/events"
 
     [[menu.main]]
         identifier="sponsors"
         name="sponsors"
         url="/sponsors"
+
+    [[menu.main]]
+        identifier="codeofconduct"
+        name="code of conduct"
+        url="/codeofconduct"
+
+[deployment]
+
+    [[deployment.targets]]
+        name = "mydeployment"
+        URL = "azblob://$web"
