@@ -26,6 +26,8 @@ jobs:
 
       - name: Azure Blob Upload
         uses: LanceMcCarthy/Action-AzureBlobUpload@v1.7
+        env:
+          AZURE_STORAGE_ACCOUNT: "storagepssouthcouk"
         with:
           connection_string: ${{ secrets.AZURE_STORAGE_BLOB_PSSOUTHCOUK_SAS_URL }}
           container_name: '$web'
