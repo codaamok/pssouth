@@ -1,0 +1,28 @@
+name: Azure Storage Blob Container CI/CD
+
+on:
+  push: [master]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          submodules: true
+      
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: 'latest'
+          extended: true
+
+      - name: Build
+        run: hugo
+
+      - name: Deploy
+        uses: TravisSpomer/deploy-to-azure-storage@v1.1
+        with:
+          source-path: 'public'
+          container_name: '$web'
+          sas-url: ${{ secrets.AZURE_STORAGE_BLOB_PSSOUTHCOUK_SAS_URL }}
