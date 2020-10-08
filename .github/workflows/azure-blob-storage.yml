@@ -23,8 +23,8 @@ jobs:
         run: hugo
 
       - name: Deploy
-        uses: TravisSpomer/deploy-to-azure-storage@v1.1
+        uses: lauchacarro/Azure-Storage-Action@master
         with:
-          source-path: 'public'
-          container_name: '$web'
-          sas-url: ${{ secrets.AZURE_STORAGE_BLOB_PSSOUTHCOUK_SAS_URL }}
+          folder: 'public'
+          blob-container-name: '$web'
+          connection-string: ${{ secrets.AZURE_STORAGE_BLOB_PSSOUTHCOUK_SAS_URL }}
