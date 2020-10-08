@@ -28,6 +28,6 @@ jobs:
         uses: bacongobbler/azure-blob-storage-upload@v1.1.1
         with:
           connection_string: ${{ secrets.AZURE_STORAGE_BLOB_PSSOUTHCOUK_SAS_URL }}
-          source_folder: public
+          source_dir: public
           container_name: $web
           sync: true
