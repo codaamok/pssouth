@@ -24,13 +24,10 @@ jobs:
           hugo version
           hugo
 
-      - uses: actions/setup-dotnet@v1
-        with:
-          dotnet-version: '3.0.100'
-
       - name: Deploy
-        uses: lauchacarro/Azure-Storage-Action@master
+        uses: bacongobbler/azure-blob-storage-upload@v1.1.1
         with:
-          folder: 'public'
-          blob-container-name: '$web'
-          connection-string: ${{ secrets.AZURE_STORAGE_BLOB_PSSOUTHCOUK_SAS_URL }}
+          source_dir: 'public'
+          container_name: '$web'
+          connection_string: ${{ secrets.AZURE_STORAGE_BLOB_PSSOUTHCOUK_SAS_URL }}
+          sync: true
