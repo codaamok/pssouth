@@ -29,5 +29,5 @@ jobs:
         with:
           source_dir: 'public'
           container_name: '$web'
-          connection_string: ${{ secrets.AZURE_STORAGE_BLOB_PSSOUTHCOUK_SAS_URL }}
+          connection_string: '${{ secrets.AZURE_STORAGE_BLOB_PSSOUTHCOUK_SAS_URL }}'
           sync: true
