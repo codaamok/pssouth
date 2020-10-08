@@ -24,10 +24,9 @@ jobs:
           hugo version
           hugo
 
-      - name: Deploy
-        uses: bacongobbler/azure-blob-storage-upload@v1.1.1
+      - name: Azure Blob Upload
+        uses: LanceMcCarthy/Action-AzureBlobUpload@v1.7
         with:
-          source_dir: 'public'
+          connection_string: ${{ secrets.AZURE_STORAGE_BLOB_PSSOUTHCOUK_SAS_URL }}
           container_name: '$web'
-          connection_string: '${{ secrets.AZURE_STORAGE_BLOB_PSSOUTHCOUK_SAS_URL }}'
-          sync: true
+          source_folder: 'public'
