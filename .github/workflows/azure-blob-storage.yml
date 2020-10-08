@@ -25,10 +25,8 @@ jobs:
           hugo
 
       - name: Azure Blob Upload
-        uses: LanceMcCarthy/Action-AzureBlobUpload@v1.7
-        env:
-          AZURE_STORAGE_ACCOUNT: "storagepssouthcouk"
+        uses: tibor19/static-website-deploy@v1
         with:
-          connection_string: ${{ secrets.AZURE_STORAGE_BLOB_PSSOUTHCOUK_SAS_URL }}
-          container_name: '$web'
-          source_folder: 'public'
+          connection-string: ${{ secrets.AZURE_STORAGE_BLOB_PSSOUTHCOUK_SAS_URL }}
+          enabled-static-website: 'true'
+          folder: 'public'
