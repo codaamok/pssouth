@@ -7,10 +7,10 @@ theme = "hugo-theme-hello-friend-ng"
     homeSubtitle = "A PowerShell user group based in the south of UK."
     enableSharingButtons = true
     disableReadOtherPosts = true
-    images = [""]
+    images = []
 
     footerLeft = "Powered by <a href=\"http://gohugo.io\">Hugo</a>"
-    footerRight = "Hosted in <a href=\"https://azure.microsoft.com\">Azure</a>"
+    footerRight = "Hosted in <a href=\"https://azure.microsoft.com\">Azure</a> <i style=\"color: #007FFF;\" class=\"fa fa-cloud\"></i>"
 
     [[params.social]]
         name = "twitter"
@@ -20,6 +20,11 @@ theme = "hugo-theme-hello-friend-ng"
         name = "youtube"
         url  = "https://youtube.com/c/PowerShellSouthampton"
 
+    [params.portrait]
+        path     = "/img/logo2.png"
+        alt      = "PowerShell Southampton User Group"
+        maxWidth = "200px"
+
     customCSS = ["css/custom.css"]
 
 [taxonomies]
@@ -28,7 +33,7 @@ theme = "hugo-theme-hello-friend-ng"
 
 [languages]
     [languages.en]
-        title = "PowerShell Southampton"
+        title = "PowerShell Southampton User Group"
         subtitle = "UK"
         keywords = "PowerShell"
 
