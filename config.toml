@@ -21,9 +21,10 @@ theme = "hugo-theme-hello-friend-ng"
         url  = "https://youtube.com/c/PowerShellSouthampton"
 
     [params.portrait]
-        path     = "/img/logo2.png"
+        path     = "/img/logo.png"
         alt      = "PowerShell Southampton User Group"
-        maxWidth = "200px"
+        width    = "50%"
+        maxWidth = "300px"
 
     customCSS = ["css/custom.css"]
 
