@@ -1,0 +1,9 @@
+{{ with .Params.categories }}
+    <p>
+        <i style="font-size: 18px; margin-right: 0.8em;" class="fal fa-folder"></i>
+
+        {{ range . -}}
+            <span class="tag"><a href="{{ "categories/" | absLangURL }}{{ . | urlize }}/">{{.}}</a></span>
+        {{ end }}
+    </p>
+{{ end }}

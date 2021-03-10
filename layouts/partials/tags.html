@@ -1,0 +1,9 @@
+{{ with .Params.tags }}
+    <p>
+        <i style="font-size: 18px; margin-right: 0.8em; max-width: 18px; height: auto;" class="fal fa-tags"></i>
+
+        {{ range . -}}
+            <span class="tag"><a href="{{ "tags/" | absLangURL }}{{ . | urlize }}/">{{.}}</a></span>
+        {{ end }}
+    </p>
+{{ end }}
