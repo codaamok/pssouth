@@ -3,7 +3,6 @@ languageCode = "en-us"
 theme = "hugo-theme-hello-friend-ng"
 
 enableGitInfo = true
-gitUrl = "https://github.com/codaamok/pssouth/commit/"
 
 [params]
     description = "A PowerShell user group based in the south of UK."
@@ -12,6 +11,7 @@ gitUrl = "https://github.com/codaamok/pssouth/commit/"
     disableReadOtherPosts = true
     images = []
     dateformNumTime = "Monday, 02 Jan 2006 15:04:05 MST"
+    gitUrl = "https://github.com/codaamok/pssouth/commit/"
 
     footerLeft = "Powered by <a href=\"http://gohugo.io\">Hugo</a>"
     footerRight = "Hosted in <a href=\"https://azure.microsoft.com\">Azure</a> <i style=\"color: #007FFF;\" class=\"fa fa-cloud\"></i>"
