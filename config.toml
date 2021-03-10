@@ -3,6 +3,7 @@ languageCode = "en-us"
 theme = "hugo-theme-hello-friend-ng"
 
 enableGitInfo = true
+gitUrl = "https://github.com/codaamok/pssouth/commit/"
 
 [params]
     description = "A PowerShell user group based in the south of UK."
