@@ -2,12 +2,7 @@
     {{ $paginator := .Paginate .Data.Pages }}
     
     <main class="posts">
-        {{ if eq .Title "Posts" }}
-            <h1>Events</h1>
-        {{ else }}
-        <h1>{{ .Title }}</h1>
-        {{ end }}
-
+        <h1>{{ .Title }} <span><a href="{{lower .Title | absLangURL }}/index.xml" target="_blank" title="{{ .Title }} RSS Feed"><i style="color: #ee802f;" class="fas fa-rss"></i></a></span></h1>
         {{ if .Content }}
             <div class="content">{{ .Content }}</div>
         {{ end }}

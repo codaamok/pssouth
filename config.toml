@@ -53,8 +53,13 @@ enableGitInfo = true
         url="/about"
 
     [[menu.main]]
-        identifier="posts"
+        identifier="events"
         name="events"
+        url="/events"
+
+    [[menu.main]]
+        identifier="posts"
+        name="posts"
         url="/posts"
 
     [[menu.main]]

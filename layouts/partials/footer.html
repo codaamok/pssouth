@@ -8,7 +8,7 @@
             {{ if .Site.Copyright }}
                 <span>{{ .Site.Copyright| safeHTML }}</span>
             {{ end }}
-            {{- with (not (in (.Site.Language.Get "disableKinds") "RSS")) }}<span><a href="{{ "posts/index.xml" | absLangURL }}" target="_blank" title="rss"><i style="font-size: 18px; color: #ee802f;" class="fas fa-rss"></i></a></span>{{ end }}
+            {{- with (not (in (.Site.Language.Get "disableKinds") "RSS")) }}<span><a href="{{ "events/index.xml" | absLangURL }}" target="_blank" title="rss"><i style="font-size: 18px; color: #ee802f;" class="fas fa-rss"></i></a></span>{{ end }}
         </div>
     </div>
     <div class="footer__inner">
