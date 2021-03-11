@@ -24,6 +24,24 @@
       </div>
     </article>
 
+    <div class="post-info">
+      <p>
+      {{ if (eq (.Params.Speaker | len ) 1) }}
+        Speaker:
+      {{ else }}
+        Speakers:
+      {{ end }}
+      {{ delimit .Params.Speaker ", " " and " | markdownify }}
+      </p>
+      <p>
+        {{ if (eq (.Params.Author | len ) 1) }}
+          Organiser:
+        {{ else }}
+          Organisers:
+        {{ end }}
+        {{ delimit .Params.Author ", " " and " | markdownify }}
+        </p>
+    </div>
     <hr />
 
     <div class="post-info">
