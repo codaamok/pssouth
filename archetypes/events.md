@@ -1,6 +1,6 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
-date: 2021-01-28T18:00:00+00:00 # Date of the meetup / stream
+date: 2021-01-28T18:00:00 # Date of the meetup / stream
 draft: true
 author: # Names of organisers, must be an array
     - "[Adam Cook](https://twitter.com/codaamok)"
