@@ -13,6 +13,12 @@ jobs:
         with:
           submodules: true
       
+      # Set timezone so .Date.Format renders dates in posts as GMT/BST
+      - name: Set Timezone
+        uses: szenius/set-timezone@v1.0
+        with:
+          timezoneLinux: "Europe/London"
+
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
