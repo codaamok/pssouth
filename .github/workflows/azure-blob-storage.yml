@@ -28,7 +28,7 @@ jobs:
       - name: Build
         run: |
           hugo version
-          hugo
+          hugo -F
 
       - name: Azure Blob Upload
         uses: bacongobbler/azure-blob-storage-upload@v1.1.1
