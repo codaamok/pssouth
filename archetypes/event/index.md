@@ -1,6 +1,6 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }} 
+date: {{ .Date }} # UTC date and time of event start time
 draft: true
 author: 
     - "[Adam Cook](https://twitter.com/codaamok)"
