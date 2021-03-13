@@ -19,12 +19,14 @@
         <img src="/{{ . }}" class="post-cover" />
       {{ end }}
 
-      <i style="font-size: 18px; margin-right: 0.8em;" class="fal fa-calendar-alt"></i>
-      {{ if .Site.Params.dateformNumTime }}
-        {{ dateFormat .Site.Params.dateformNumTime .Date.Local }}
-      {{ else }}
-        {{ dateFormat "2006-01-02 15:04" .Date.Local }}
-      {{ end }}
+      <p>
+        <i class="fal fa-calendar-alt"></i>
+        {{ if .Site.Params.dateformNumTime }}
+          {{ dateFormat .Site.Params.dateformNumTime .Date.Local }}
+        {{ else }}
+          {{ dateFormat "2006-01-02 15:04" .Date.Local }}
+        {{ end }}
+      </p>
 
       <div class="post-content">        
         {{ .Content }}

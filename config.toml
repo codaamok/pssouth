@@ -10,7 +10,7 @@ enableGitInfo = true
     enableSharingButtons = true
     disableReadOtherPosts = true
     images = []
-    dateformNumTime = "Monday, 02 Jan 2006 15:04:05 MST"
+    dateformNumTime = "Monday, 02 Jan 2006 15:04 MST"
     gitUrl = "https://github.com/codaamok/pssouth/commit/"
 
     footerLeft = "Powered by <a href=\"http://gohugo.io\">Hugo</a>"
