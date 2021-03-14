@@ -4,7 +4,7 @@ date: 2020-01-28T19:00:00Z # UTC date and time of event start time
 draft: false
 author: 
     - "[Jonathan Medd](https://twitter.com/jonathanmedd)"
-    - "[Nigel Bolton](https://twitter.com/n_boulton)"
+    - "[Nigel Boulton](https://twitter.com/n_boulton)"
     - "[Graham Beer](https://twitter.com/GKBeer)"
 speaker: 
     - "[Jonathan Medd](https://twitter.com/jonathanmedd)"
@@ -29,4 +29,4 @@ Jonathan Medd ([@jonathanmedd](https://twitter.com/jonathanmedd)) is a Cloud Aut
 **19:35 - 20:15**: Working with different types of data in PowerShell  
 **20:15 - 20:45**: Break / Pizza / Refreshments  
 **20:45 - 21:30**: Follow up discussion  
-**20:00 - 20:15**: Close up
+**21:30**: Close up
