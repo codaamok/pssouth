@@ -46,8 +46,7 @@ Ansible is becoming an increasingly popular tool for automation and orchestratio
 
 ### Schedule
 
-**19:00 - 19:30**: Arrival  
-**19:15 - 19:30**: Welcome / User Group Introduction  
+**19:00 - 19:30**: Arrival, and welcome / User Group introduction  
 **19:30 - 20:15**: About Sketchnotes with Matt Penny  
 **20:15 - 20:45**: Break / Pizza / Refreshments  
 **20:45 - 21:30**: Ansible and PowerShell together with Jonathan Medd  

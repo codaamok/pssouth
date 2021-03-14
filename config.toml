@@ -1,7 +1,7 @@
 baseURL = "https://new.pssouth.co.uk/"
 languageCode = "en-us"
 theme = "hugo-theme-hello-friend-ng"
-
+paginate = 9999999999
 enableGitInfo = true
 
 [params]

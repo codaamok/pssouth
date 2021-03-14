@@ -3,9 +3,9 @@ title: "January Virtual Meetup: Writing Robust PowerShell Code"
 date: 2021-01-28T18:00:00 # UTC date and time of event start time
 draft: false
 author: # Names of organisers, must be an array
-    - "[Guy Leech](https://twitter.com/guyrleech)"
-speaker: # Names of speakers, must be an array
     - "[Adam Cook](https://twitter.com/codaamok)"
+speaker: # Names of speakers, must be an array
+    - "[Guy Leech](https://twitter.com/guyrleech)"
 tags: 
     - "error handling"
 categories: 

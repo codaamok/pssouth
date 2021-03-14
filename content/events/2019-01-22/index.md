@@ -27,9 +27,7 @@ Chris Murray: Born 1990, @commat @UlsterUni Graduate, former @UUSU sabb & DSO fo
 
 ### Schedule
 
-**18:45 - 19:00**: Setup & connectivity check  
-**19:00 - 19:30**: Arrival  
-**19:15 - 19:30**: Welcome / User Group Introduction  
+**19:00 - 19:30**: Arrival, and welcome / User Group introduction  
 **19:30 - 20:15**: Part 1: Interactive GitHub Session!  
 **20:15 - 20:45**: Break / Pizza / Refreshments  
 **20:45 - 21:30**: Part 1: Interactive GitHub Session!  

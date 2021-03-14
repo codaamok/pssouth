@@ -35,12 +35,14 @@
 
     <div class="post-info">
       <p>
-      {{ if (eq (.Params.Speaker | len ) 1) }}
-        Speaker:
-      {{ else }}
-        Speakers:
-      {{ end }}
-      {{ delimit .Params.Speaker ", " " and " | markdownify }}
+        {{ with .Params.Speaker }}
+          {{ if (eq (. | len ) 1) }}
+            Speaker:
+          {{ else }}
+            Speakers:
+          {{ end }}
+          {{ delimit . ", " " and " | markdownify }}
+        {{ end }}
       </p>
       <p>
         {{ if (eq (.Params.Author | len ) 1) }}
