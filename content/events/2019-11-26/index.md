@@ -27,5 +27,5 @@ Will is a DevOps engineer. He's been using PowerShell since 2011 and has spent t
 **19:00 - 19:30**: Arrival and Welcome / User Group Introduction  
 **19:30 - 20:15**: Real-World Deployment  
 **20:15 - 20:45**: Break / Pizza / Refreshments  
-**20:45 - 21:30**: Real-World Deployment    
+**20:45 - 21:30**: Real-World Deployment  
 **21:30**: Close up
