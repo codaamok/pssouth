@@ -26,7 +26,7 @@ Rob is a SQL Server DBA with a passion for PowerShell, Azure, Automation, and SQ
 ### Schedule
 
 **19:00 - 19:30**: Arrival, and welcome / User Group introduction  
-**19:30 - 20:15**: Introduction to Pester 
+**19:30 - 20:15**: Introduction to Pester  
 **20:15 - 20:45**: Break / Pizza / Refreshments  
-**20:45 - 21:30**: Introduction to Pester 
+**20:45 - 21:30**: Introduction to Pester  
 **21:30**: Close up

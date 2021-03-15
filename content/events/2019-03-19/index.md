@@ -40,7 +40,7 @@ Nigel Boulton is a Senior Infrastructure Consultant at Hampshire County Council,
 ### Schedule
 
 **19:00 - 19:30**: Arrival, and welcome / User Group introduction  
-**19:30 - 20:15**: Google Cloud PowerShell 101 with Jonathan Medd
+**19:30 - 20:15**: Google Cloud PowerShell 101 with Jonathan Medd  
 **20:15 - 20:45**: Break / Pizza / Refreshments  
 **20:45 - 21:30**: Multi-threading in your PowerShell scripts using Runspaces with Nigel Boulton  
 **21:30**: Close up

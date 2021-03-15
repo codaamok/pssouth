@@ -25,7 +25,7 @@ Pester Max - Maximum testing, zero effort with [James Anderson](https://twitter.
 ### Schedule
 
 **19:00 - 19:30**: Arrival, and welcome / User Group introduction  
-**19:30 - 20:15**: 10+ years of PowerShell: Where have we been?
+**19:30 - 20:15**: 10+ years of PowerShell: Where have we been?  
 **20:15 - 20:45**: Break / Pizza / Refreshments  
-**20:45 - 21:30**: Pester Max - Maximum testing, zero effort
+**20:45 - 21:30**: Pester Max - Maximum testing, zero effort  
 **21:30**: Close up

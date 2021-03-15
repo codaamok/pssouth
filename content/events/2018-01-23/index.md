@@ -26,7 +26,7 @@ Ebru Cucen is .NET Developer turned into DevOps Architect, loves automation, bui
 ### Schedule
 
 **19:00 - 19:30**: Arrival, and welcome / User Group introduction  
-**19:30 - 20:15**: Automating Deployments with Octopus   
+**19:30 - 20:15**: Automating Deployments with Octopus  
 **20:15 - 20:45**: Break / Pizza / Refreshments  
-**20:45 - 21:30**: Automating Deployments with Octopus   
+**20:45 - 21:30**: Automating Deployments with Octopus  
 **21:30**: Close up

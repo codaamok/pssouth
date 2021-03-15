@@ -26,7 +26,7 @@ Build Automation with psake with [Dave Green](https://twitter.com/neongreenie)
 ### Schedule
 
 **19:00 - 19:30**: Arrival, and welcome / User Group introduction  
-**19:30 - 20:15**: Can VSCode replace ISE?
+**19:30 - 20:15**: Can VSCode replace ISE? 
 **20:15 - 20:45**: Break / Pizza / Refreshments  
-**20:45 - 21:30**: Build Automation with psake
+**20:45 - 21:30**: Build Automation with psake  
 **21:30**: Close up
