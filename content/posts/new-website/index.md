@@ -1,7 +1,7 @@
 ---
 title: "New Website"
 date: 2021-04-03T12:00:00 # UTC date and time of event start time
-draft: true
+draft: false
 toc: false
 ---
 
