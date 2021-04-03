@@ -9,6 +9,7 @@ enableGitInfo = true
     homeSubtitle = "A PowerShell user group based in the south of UK."
     enableSharingButtons = true
     disableReadOtherPosts = true
+    customCSS = ["/css/custom.css"]
     images = []
     dateformNumTime = "Monday, 02 Jan 2006 15:04 MST"
     gitUrl = "https://github.com/codaamok/pssouth/commit/"
@@ -30,8 +31,6 @@ enableGitInfo = true
         width    = "50%"
         maxWidth = "300px"
 
-    customCSS = ["css/custom.css"]
-
 [taxonomies]
     tag      = "tags"
     category = "categories"
@@ -51,6 +50,11 @@ enableGitInfo = true
         identifier="about"
         name="about"
         url="/about"
+
+    [[menu.main]]
+        identifier="meetup"
+        name="meetup"
+        url="https://www.meetup.com/PowerShell-Southampton/"
 
     [[menu.main]]
         identifier="events"

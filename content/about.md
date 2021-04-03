@@ -12,17 +12,17 @@ If you are an experienced PowerShell user we'll offer an opportunity for you to 
 You can learn more about us, see our previous events and follow us on:
 
 - [Twitter](https://twitter.com/PSSouthampton)
+- [Meetup](https://www.meetup.com/PowerShell-Southampton/)
 - [YouTube](https://youtube.com/c/PowerShellSouthampton)
 - [GitHub](https://github.com/powershellorguk/SouthCoast)
-- [RSS for new events](https://new.pssouth.co.uk/events/index.xml)
-- [RSS for posts and general announcements](http://localhost:1313/posts/index.xml)
+- RSS for [new events](https://new.pssouth.co.uk/events/index.xml), and [general post/announcements](https://new.pssouth.co.uk/posts/index.xml)
 
 PowerShell Southampton was founded in 2017 by Jonathan Medd, Nigel Boulton and Graham Beer. 
 
 In 2020, the original founders of the group were seeking new owners and organisers. Adam Cook took on responsibility of becoming organiser of the group, and Jess Pomfret has also joined to help.
 
 {{< rawhtml >}}
-<div style="text-align: center;">
+<div id="aboutTable">
 {{< /rawhtml >}}
 | | |
 | -- | -- |
