@@ -26,8 +26,8 @@ In 2020, the original founders of the group were seeking new owners and organise
 {{< /rawhtml >}}
 | | |
 | -- | -- |
-| {{< rawhtml >}} <img src="/img/adam.jpg" style="width: 200px; height: 200px; margin: 20px; border-radius: 50%; border: 2px solid white;"/> {{< /rawhtml >}} | {{< rawhtml >}} <img src="/img/jess.jpg" style="width: 200px; height: 200px; margin: 20px; border-radius: 50%; border: 2px solid white;"/> {{< /rawhtml >}} |
-| Adam Cook | Jess Pomfret |
+| {{< rawhtml >}} <a href="https://twitter.com/codaamok"><img src="/img/adam.jpg" style="width: 200px; height: 200px; margin: 20px; border-radius: 50%; border: 2px solid white;"/></a> {{< /rawhtml >}} | {{< rawhtml >}} <a href="https://twitter.com/jpomfret"><img src="/img/jess.jpg" style="width: 200px; height: 200px; margin: 20px; border-radius: 50%; border: 2px solid white;"/></a> {{< /rawhtml >}} |
+| [Adam Cook](https://twitter.com/codaamok) | [Jess Pomfret](https://twitter.com/jpomfret) |
 {{< rawhtml >}}
 </div>
 {{< /rawhtml >}}

@@ -14,7 +14,7 @@ enableGitInfo = true
     dateformNumTime = "Monday, 02 Jan 2006 15:04 MST"
     gitUrl = "https://github.com/codaamok/pssouth/commit/"
 
-    footerLeft = "Powered by <a href=\"http://gohugo.io\">Hugo</a>"
+    footerLeft = "Powered by <a href=\"http://gohugo.io\">Hugo</a> <img src=\"/img/hugo.png\" style=\"vertical-align:middle;width:23px;display:inline\">"
     footerRight = "Hosted in <a href=\"https://azure.microsoft.com\">Azure</a> <i style=\"color: #007FFF;\" class=\"fa fa-cloud\"></i>"
 
     [[params.social]]
