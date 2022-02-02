@@ -34,5 +34,5 @@ jobs:
         uses: Azure/cli@1.0.4
         with:
           inlineScript: |
-            az storage blob delete-batch --source "$web" --sas-token "${{ secrets.AZURE_STORAGE_BLOB_SAS_CONNECTIONSTRING }}" --account-name "storageaccountpssouth"
-            az storage blob upload-batch --destination "$web" --source "./public" --content-cache-control "no-cache, max-age=86400" --sas-token "${{ secrets.AZURE_STORAGE_BLOB_SAS_CONNECTIONSTRING }}" --account-name "storageaccountpssouth"
+            az storage blob delete-batch --source "web" --sas-token "${{ secrets.AZURE_STORAGE_BLOB_SAS_CONNECTIONSTRING }}" --account-name "storageaccountpssouth"
+            az storage blob upload-batch --destination "web" --source "./public" --content-cache-control "no-cache, max-age=86400" --sas-token "${{ secrets.AZURE_STORAGE_BLOB_SAS_CONNECTIONSTRING }}" --account-name "storageaccountpssouth"
