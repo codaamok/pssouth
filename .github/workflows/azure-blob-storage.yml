@@ -31,9 +31,8 @@ jobs:
           hugo -F
 
       - name: Azure Blob Upload
-        uses: bacongobbler/azure-blob-storage-upload@v1.1.1
+        uses: Azure/cli@1.0.4
         with:
-          connection_string: ${{ secrets.AZURE_STORAGE_BLOB_SAS_CONNECTIONSTRING }}
-          source_dir: public
-          container_name: $web
-          sync: true
+          inlineScript: |
+            az storage blob delete-batch --sas-token "${{ secrets.AZURE_STORAGE_BLOB_SAS_CONNECTIONSTRING }}" --account-name "storageaccountpssouth" --source "$web"
+            az storage blob upload-batch --destination "$web" --source "./public" --content-cache-control "no-cache, max-age=86400" --sas-token "${{ secrets.AZURE_STORAGE_BLOB_SAS_CONNECTIONSTRING }}" --account-name "storageaccountpssouth"

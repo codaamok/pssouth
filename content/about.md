@@ -15,7 +15,7 @@ You can learn more about us, see our previous events and follow us on:
 - [Meetup](https://www.meetup.com/PowerShell-Southampton/)
 - [YouTube](https://youtube.com/c/PowerShellSouthampton)
 - [GitHub](https://github.com/powershellorguk/SouthCoast)
-- RSS for [new events](https://new.pssouth.co.uk/events/index.xml), and [general post/announcements](https://new.pssouth.co.uk/posts/index.xml)
+- RSS for [new events](https://pssouth.co.uk/events/index.xml), and [general post/announcements](https://pssouth.co.uk/posts/index.xml)
 
 PowerShell Southampton was founded in 2017 by Jonathan Medd, Nigel Boulton and Graham Beer. 
 
