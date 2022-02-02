@@ -31,7 +31,7 @@ jobs:
           hugo -F
 
       - name: Azure Blob Upload
-        uses: Azure/cli@1
+        uses: Azure/cli@v1
         with:
           inlineScript: |
             az storage blob delete-batch --source "$web" --sas-token "${{ secrets.AZURE_STORAGE_BLOB_SAS_CONNECTIONSTRING }}" --account-name "storageaccountpssouth"
