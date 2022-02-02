@@ -19,17 +19,15 @@ You can learn more about us, see our previous events and follow us on:
 
 PowerShell Southampton was founded in 2017 by Jonathan Medd, Nigel Boulton and Graham Beer. 
 
-In 2020, the original founders of the group were seeking new owners and organisers. Adam Cook took on responsibility of becoming organiser of the group, and Jess Pomfret has also joined to help.
+In 2020, the original founders of the group were seeking new owners and organisers. Adam Cook became the new organiser of the group.
 
 {{< rawhtml >}}
 <div id="aboutTable">
 {{< /rawhtml >}}
-| | |
-| -- | -- |
-| {{< rawhtml >}} <a href="https://twitter.com/codaamok"><img src="/img/adam.jpg" style="width: 200px; height: 200px; margin: 20px; border-radius: 50%; border: 2px solid white;"/></a> {{< /rawhtml >}} | {{< rawhtml >}} <a href="https://twitter.com/jpomfret"><img src="/img/jess.jpg" style="width: 200px; height: 200px; margin: 20px; border-radius: 50%; border: 2px solid white;"/></a> {{< /rawhtml >}} |
-| [Adam Cook](https://twitter.com/codaamok) | [Jess Pomfret](https://twitter.com/jpomfret) |
+| |
+| -- |
+| {{< rawhtml >}} <a href="https://twitter.com/codaamok"><img src="/img/adam.jpg" style="width: 200px; height: 200px; margin: 20px; border-radius: 50%; border: 2px solid white;"/></a> {{< /rawhtml >}} |
+| [Adam Cook](https://twitter.com/codaamok) |
 {{< rawhtml >}}
 </div>
 {{< /rawhtml >}}
-
-

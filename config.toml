@@ -1,4 +1,4 @@
-baseURL = "https://new.pssouth.co.uk/"
+baseURL = "https://pssouth.co.uk/"
 languageCode = "en-us"
 theme = "hugo-theme-hello-friend-ng"
 paginate = 9999999999
