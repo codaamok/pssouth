@@ -32,6 +32,7 @@ It's 1 mile from [Eastleigh train station](https://www.google.com/maps/dir/Eastl
 **Adam Bacon (@psdevuk)** - Documentation with Retype and PowerShell! Adam will walk us through on how to get started writing documentation with Retype. Learn how to use Adam's [Retype PowerShell module](https://www.powershellgallery.com/packages/Retype/1.0.1) and how he made [this website](https://powershellretype.netlify.app/), using PowerShell!
 
 **Jaap Brasser (@Jaap_Brasser)** - session title/description tbd
+
 **Brett Miller (@BrettMiller_IT)** - session title/description tbd
 
 ### Schedule
