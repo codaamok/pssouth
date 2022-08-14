@@ -49,6 +49,9 @@ Prizes to be won at the end:
 - Logitech MX Master 3S Wireless Mouse
 - Mastering PowerShell Scripting: Automate and manage your environment using PowerShell 7.1, 4th Edition book, written by Chris Dent
 
+### RSVP
+
+RSVP to the event on our [Meetup page](https://www.meetup.com/powershell-southampton/events/287765603/).
 ### Sponsor
 
 {{< rawhtml >}} <a href="https://patchmypc.com"><img src="/img/Patch My PC - Logo Horizontal - Reverse 300ppi.png"/></a> {{< /rawhtml >}} 
