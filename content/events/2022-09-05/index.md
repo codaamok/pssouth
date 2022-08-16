@@ -29,11 +29,11 @@ The venue is [Holiday Inn Southampton-Eastleigh M3,Jct13, an IHG Hotel](https://
 It's 1 mile from [Eastleigh train station](https://www.google.com/maps/dir/Eastleigh,+Eastleigh/Holiday+Inn+Southampton-Eastleigh+M3,Jct13,+an+IHG+Hotel,+Leigh+Rd,+Eastleigh+SO50+9PG/@50.9692754,-1.3639986,16z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x487472fc35d8be9f:0xd5365bd683330775!2m2!1d-1.3501705!2d50.9692091!1m5!1m1!1s0x4874730fb7d3bbc1:0xcea4a9f117a01e60!2m2!1d-1.3691899!2d50.9713174!3e2) and, literally, just off of the M3 at junction 13.
 
 ### Speakers
-**Adam Bacon (@psdevuk)** - Documentation with Retype and PowerShell! Adam will walk us through on how to get started writing documentation with Retype. Learn how to use Adam's [Retype PowerShell module](https://www.powershellgallery.com/packages/Retype/1.0.1) and how he made [this website](https://powershellretype.netlify.app/), using PowerShell!
+**Adam Bacon ([@psdevuk](https://twitter.com/psdevuk))** - Documentation with Retype and PowerShell! Adam will walk us through on how to get started writing documentation with Retype. Learn how to use Adam's [Retype PowerShell module](https://www.powershellgallery.com/packages/Retype/1.0.1) and how he made [this website](https://powershellretype.netlify.app/), using PowerShell!
 
-**Jaap Brasser (@Jaap_Brasser)** - Azure Functions, the DevOps way! You're using Azure Functions, now the next step is... how can we make sure that everything runs as intended when it's deployed. Using proper CI/CD pipelines can be beneficial but hard to setup. Join us in this session to learn about the power of automated pipelines to create PowerShell Azure Functions, faster, more efficient and with more power!
+**Jaap Brasser ([@Jaap_Brasser](https://twitter.com/Jaap_Brasser))** - Azure Functions, the DevOps way! You're using Azure Functions, now the next step is... how can we make sure that everything runs as intended when it's deployed. Using proper CI/CD pipelines can be beneficial but hard to setup. Join us in this session to learn about the power of automated pipelines to create PowerShell Azure Functions, faster, more efficient and with more power!
 
-**Brett Miller (@BrettMiller_IT)** - session title/description tbd
+**Brett Miller ([@BrettMiller_IT](https://twitter.com/BrettMiller_IT))** - session title/description tbd
 
 ### Schedule
 
