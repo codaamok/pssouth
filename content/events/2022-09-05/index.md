@@ -19,7 +19,7 @@ toc: false
 
 ** **Only RSVP if you can physically attend** ** I am using the number of attendees RSVP'ed as a means to determine how many to cater food for.
 
-Three speakers are lined up, sandwiches, tea, and coffee will be served, and 2 raffle prizes to be won at the end (see below)!
+Three speakers are lined up, sandwiches, tea, and coffee will be served, and 3 raffle prizes to be won at the end (see below)!
 
 This event is in-person only and will not be live streamed. The sessions might be recorded - to be decided! If they will be, they will be uploaded to our [YouTube channel](https://www.youtube.com/c/PowerShellSouthampton)!
 
