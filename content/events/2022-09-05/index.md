@@ -5,7 +5,7 @@ draft: false
 author: 
     - "[Adam Cook](https://twitter.com/codaamok)"
 speaker: 
-    - "[Adam Bacon](https://twitter.com/twitterhandle)"
+    - "[Adam Bacon](https://twitter.com/psdevuk)"
     - "[Brett Miller](https://twitter.com/BrettMiller_IT)"
     - "[Jaap Brasser](https://twitter.com/Jaap_Brasser)"
 tags: 
