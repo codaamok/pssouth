@@ -31,7 +31,7 @@ It's 1 mile from [Eastleigh train station](https://www.google.com/maps/dir/Eastl
 ### Speakers
 **Adam Bacon (@psdevuk)** - Documentation with Retype and PowerShell! Adam will walk us through on how to get started writing documentation with Retype. Learn how to use Adam's [Retype PowerShell module](https://www.powershellgallery.com/packages/Retype/1.0.1) and how he made [this website](https://powershellretype.netlify.app/), using PowerShell!
 
-**Jaap Brasser (@Jaap_Brasser)** - session title/description tbd
+**Jaap Brasser (@Jaap_Brasser)** - Azure Functions, the DevOps way! You're using Azure Functions, now the next step is... how can we make sure that everything runs as intended when it's deployed. Using proper CI/CD pipelines can be beneficial but hard to setup. Join us in this session to learn about the power of automated pipelines to create PowerShell Azure Functions, faster, more efficient and with more power!
 
 **Brett Miller (@BrettMiller_IT)** - session title/description tbd
 
