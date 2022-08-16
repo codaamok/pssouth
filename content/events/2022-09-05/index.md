@@ -33,14 +33,14 @@ It's 1 mile from [Eastleigh train station](https://www.google.com/maps/dir/Eastl
 
 **Jaap Brasser ([@Jaap_Brasser](https://twitter.com/Jaap_Brasser))** - Azure Functions, the DevOps way! You're using Azure Functions, now the next step is... how can we make sure that everything runs as intended when it's deployed. Using proper CI/CD pipelines can be beneficial but hard to setup. Join us in this session to learn about the power of automated pipelines to create PowerShell Azure Functions, faster, more efficient and with more power!
 
-**Brett Miller ([@BrettMiller_IT](https://twitter.com/BrettMiller_IT))** - session title/description tbd
+**Brett Miller ([@BrettMiller_IT](https://twitter.com/BrettMiller_IT))** - Managing Azure resources with PowerShell and Azure Functions! What do you do when you need to migrate and modernize a ton of Azure resources with zero downtime? You've probably heard of Azure functions, but maybe you're not sure where to get started or what you can do with them. Maybe you use Azure functions but aren't using them to their full capability. This session will show you how you can use PowerShell and Azure functions to manage your Azure resources. From there, we will dive into an advanced real-life migration scenario utilising Azure Functions and PowerShell to automate the migration of thousands of Azure resources with zero downtime.
 
 ### Schedule
 
 **17:00 - 17:30**: Welcome & setup  
-**17:30 - 18:30**:  
-**18:30 - 19:30**:  
-**19:30 - 20:30**:  
+**17:30 - 18:30**: Brett Miller - Managing Azure resources with PowerShell and Azure Functions 
+**18:30 - 19:30**: Jaap Brasser - Azure Functions, the DevOps way! 
+**19:30 - 20:30**: Adam Bacon - Documentation with Retype and PowerShell! 
 **20:30 - 21:00**: Raffle and wrap up
 
 ### Raffle
