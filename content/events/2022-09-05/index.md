@@ -10,6 +10,11 @@ speaker:
     - "[Jaap Brasser](https://twitter.com/Jaap_Brasser)"
 tags: 
     - "retype"
+    - "documentation"
+    - "azure"
+    - "azure functions"
+    - "cicd"
+    - "pipeline"
 categories: 
     - "meetup"
 toc: false
