@@ -43,10 +43,10 @@ It's 1 mile from [Eastleigh train station](https://www.google.com/maps/dir/Eastl
 ### Schedule
 
 **17:00 - 17:30**: Welcome & setup  
-**17:30 - 18:30**: Brett Miller - Managing Azure resources with PowerShell and Azure Functions 
-**18:30 - 19:30**: Jaap Brasser - Azure Functions, the DevOps way! 
-**19:30 - 20:30**: Adam Bacon - Documentation with Retype and PowerShell! 
-**20:30 - 21:00**: Raffle and wrap up
+**17:30 - 18:30**: Brett Miller - Migrating the Unmigratable  
+**18:30 - 19:30**: Jaap Brasser - Azure Functions, the DevOps way!  
+**19:30 - 20:30**: Adam Bacon - Documentation with Retype and PowerShell!  
+**20:30 - 21:00**: Raffle and wrap up  
 
 ### Raffle
 Prizes to be won at the end:
