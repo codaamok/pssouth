@@ -1,6 +1,6 @@
 ---
 title: "September In-Person Meetup"
-date: 2022-09-05T16:00:00+01:00 # UTC date and time of event start time
+date: 2022-09-05T17:00:00+01:00 # UTC date and time of event start time
 draft: false
 author: 
     - "[Adam Cook](https://twitter.com/codaamok)"
